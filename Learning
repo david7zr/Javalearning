@@ -1,0 +1,11 @@
+package package;
+class Main (
+
+  /**
+   * @param args
+   */
+   public static void main(String[] args) {
+      // All auto-generated meth stub
+      System.out.println();
+   }
+}
